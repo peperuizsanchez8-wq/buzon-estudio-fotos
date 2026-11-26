@@ -2,7 +2,7 @@
 
 Página única para un estudio de fotografía social (quince, bodas, embarazo y familia, fotolibros) con un formulario de reclamos y sugerencias que detecta solo las entregas fuera de plazo. Todo funciona en el navegador con `localStorage`, sin backend.
 
-**Demo:** https://armivatech.github.io/buzon-estudio-fotos/
+**Demo:** https://peperuizsanchez8-wq.github.io/buzon-estudio-fotos/
 
 > «Estudio Ámbar» es un nombre de prueba. Todos los datos son sintéticos.
 
@@ -10,7 +10,7 @@ Página única para un estudio de fotografía social (quince, bodas, embarazo y 
 
 No necesita instalación ni dependencias.
 
-1. Clonar el repositorio: `git clone https://github.com/ArmivaTech/buzon-estudio-fotos.git`
+1. Clonar el repositorio: `git clone https://github.com/peperuizsanchez8-wq/buzon-estudio-fotos.git`
 2. Abrir `index.html` en el navegador (doble clic).
    Si se prefiere servirlo: `npx serve .` o `python3 -m http.server` y abrir `http://localhost:8000`.
 
